@@ -1,7 +1,6 @@
 # Spring Boot React CRUD
 ## Download
 ```git clone https://github.com/izzuddin5622/Assignment```
-```cd spring-boot-react-crud```
 ## Open Terminal
 ```cd frontend```
 ## Install NPM Dependencies 
